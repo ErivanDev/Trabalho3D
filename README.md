@@ -1,2 +1,2 @@
-# Trabalho_3D
+# Trabalho3D
 Trabalho de Ferramentas de Modelagem Tridimensional I
